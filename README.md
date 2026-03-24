@@ -1,10 +1,10 @@
 \[!\[Open in MATLAB Online]
 
-# Práctica: Sistema cardiovascular
+# Práctica 2: Sistema cardiovascular
 
 ## Información de la estudiante
 
-Corina Plata-Ante \[03210981]; corina.plata@tectijuana.edu.mx
+Adriana E. Bañuelos\[23210694]; L23210694@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -39,7 +39,7 @@ El modelo de Windkessel de cuatro elementos contiene dos elementos dinámicos. P
 
 2\. Existe una clara analogía entre los elementos eléctricos y los componentes hidráulicos implicados en el efecto Windkessel. En consecuencia, se relacionan fácilmente con el significado hemodinámico y el acoplamiento ventrículo-arterial.
 
-Palabras clave: ???; ???; ???; ???; ???
+Palabras clave: Sistema cardiovascular; Modelo de windkessel ; Presión arterial; Función de transferencia; Análisis matemático.
 
 ## Lista de archivos incluidos en el repositorio
 
